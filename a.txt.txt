@@ -1,0 +1,17 @@
+[info] Loading settings from plugins.sbt ...
+[info] Loading project definition from C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw6-UnBothered1\project
+[info] Loading settings from build.sbt ...
+[error] [E1] hw6.scala
+[error]      type mismatch;
+[error]       found   : Unit
+[error]       required: (eecs.searchtrees.SearchTree[Int], Int)
+[error]      L26:      else if (str(stI) == 'E') (Empty,stI)
+[error]      L26:           ^
+[error] [E2] hw6.scala
+[error]      type mismatch;
+[error]       found   : (eecs.searchtrees.SearchTree[Int], Int)
+[error]       required: eecs.searchtrees.SearchTree[Int]
+[error]      L34:    parcer(0)
+[error]      L34:          ^
+[error] hw6.scala: L26 [E1], L34 [E2]
+[error] (Compile / compileIncremental) Compilation failed
