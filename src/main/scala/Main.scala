@@ -1,4 +1,4 @@
-@main def hello: Unit =
+@main def main: Unit =
 
     def sort(tree: SearchTree[Int]): List[Int] = {
 
